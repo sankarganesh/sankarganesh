@@ -1,14 +1,16 @@
 ### Hello | Hola Everyone! 👋
 
-  ## About Myself
+  ## 💭 About Myself
 
-  Myself Sankar Ganesh S from Chennai | Tirunelveli , India.
+  <li> Myself Sankar Ganesh S from <a href ="https://www.openstreetmap.org/?mlat=13.0838&mlon=80.1841#map=11/13.0838/80.1841"> Chennai </a> | <a href ="https://www.openstreetmap.org/?mlat=8.7296&mlon=77.6852#map=11/8.7296/77.6852"> Tirunelveli </a>, India. </li> <br/>
 
-  I have been working in the Software industry since 2009
+  <li> I have been working in the Software industry since 2009 </li> <br/>
 
-  I'm a **Mobile Application Architect** who predominantly working in the mobile application development with **Android** ( using **Java** & **Kotlin**) & very few projects on **iOS** , From the Last two years onwards, I have been working on **Flutter** and parallel on the **Android** project as well.
+  <li> I'm a <b>Mobile Application Architect</b> who predominantly working in the mobile application development with <b>Android</b> ( using <b>Java</b> & <b>Kotlin</b>) & very few projects on <b>iOS</b>.</li> <br/>
+  
+  <li> From the Last two years onwards, I have been working on <b>Flutter</b> and parallel on the <b>Android</b>   project as well. </li> <br/>
 
-  A **PMI** **Certified** P**roject Management Professional (PMP)** from **October** **2020** onwards.
+  <li> A <b>PMI</b>  <b>Certified Project Management Professional (PMP)</b> from <b>October 2020 </b> onwards. </li>
   <br/>
   
   ## 🔧 Technologies & Tools
@@ -18,15 +20,18 @@
   ![](https://img.shields.io/badge/Code-flutter-informational?style=for-the-badge&logo=flutter&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
-    <br/> 
+    <br/> <br/>
   ![](https://img.shields.io/badge/Code-Hibernate-informational?style=for-the-badge&logo=Hibernate&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=SQL&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
 
+ <br/>
  
- ## 🔧 GitHub Stats
+ ## 📊 GitHub Stats
+  
+  <br/>
   
 <img src="https://github-readme-stats.vercel.app/api?username=sankarganesh&show_icons=true"/>  [![Sankar Ganesh S's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarganesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
