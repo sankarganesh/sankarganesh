@@ -1,7 +1,6 @@
 ### Hello | Hola Everyone! 👋
 
 
-**About Myself**
 
   Myself Sankar Ganesh S from Chennai | Tirunelveli , India.
 
