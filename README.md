@@ -4,14 +4,18 @@
 
   <li> Myself Sankar Ganesh S from <a href ="https://www.openstreetmap.org/?mlat=13.0838&mlon=80.1841#map=11/13.0838/80.1841"> Chennai </a> | <a href ="https://www.openstreetmap.org/?mlat=8.7296&mlon=77.6852#map=11/8.7296/77.6852"> Tirunelveli </a>, India. </li> <br/>
 
-  <li> I have been working in the Software industry since 2009 </li> <br/>
+  <li> I have been working in the Software Industry since  <b>2009</b>. </li> <br/>
 
-  <li> I'm a <b>Mobile Application Architect</b> who predominantly working in the mobile application development with <b>Android</b> ( using <b>Java</b> & <b>Kotlin</b>) & very few projects on <b>iOS</b>.</li> <br/>
+  <li> I'm a <b>Mobile Application Architect</b> who predominantly working in the mobile application development with <b>Android</b> (using <b>Java</b> & <b>Kotlin</b>) & very few projects on <b>iOS</b>.</li> <br/>
   
   <li> From the Last two years onwards, I have been working on <b>Flutter</b> and parallel on the <b>Android</b>   project as well. </li> <br/>
 
-  <li> A <b>PMI</b>  <b>Certified Project Management Professional (PMP)</b> from <b>October 2020 </b> onwards. </li>
+  <li> A <b>PMI</b>  <b>Certified Project Management Professional (PMP)</b> from <b>October 2020 </b> onwards. </li> <br/>
+  
+  <li> Playing a role of <b>Product Owner</b> from <b> June 2017</b>. </li>
   <br/>
+  
+  
   
   ## 🔧 Technologies & Tools
    
@@ -26,8 +30,12 @@
   ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=SQL&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
-
- <br/>
+    <br/> <br/>
+  ![](https://img.shields.io/badge/PMI-ProjMgmt-informational?style=for-the-badge&logo=PMP&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
+  ![](https://img.shields.io/badge/Agile-ProductOwner-informational?style=for-the-badge&logo=Agile&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
+  ![](https://img.shields.io/badge/Architect-Mobile-informational?style=for-the-badge&logo=Architect&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
+ <br/> <br/>
+ 
  
  ## 📊 GitHub Stats
   
