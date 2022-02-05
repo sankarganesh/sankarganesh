@@ -27,7 +27,7 @@
   
   <br/> 
  
-  **GitHub Stats**
+ ## 🔧 GitHub Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=sankarganesh&show_icons=true"/>  [![Sankar Ganesh S's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sankarganesh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
