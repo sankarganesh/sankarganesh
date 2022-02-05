@@ -31,10 +31,6 @@
   ![](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=SQL&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Spring-informational?style=for-the-badge&logo=Spring&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
     <br/> <br/>
-  ![](https://img.shields.io/badge/PMI-ProjMgmt-informational?style=for-the-badge&logo=PMP&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
-  ![](https://img.shields.io/badge/Agile-ProductOwner-informational?style=for-the-badge&logo=Agile&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
-  ![](https://img.shields.io/badge/Architect-Mobile-informational?style=for-the-badge&logo=Architect&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
- <br/> <br/>
  
  
  ## 📊 GitHub Stats
