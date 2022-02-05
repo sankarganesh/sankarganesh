@@ -1,3 +1,5 @@
+<img src="https://github.com/sankarganesh/sankarganesh/blob/master/images/banner.jpg">
+
 ### Hello | Hola Everyone! 👋
 
   ## 💭 About Myself
