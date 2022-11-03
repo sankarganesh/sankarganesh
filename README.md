@@ -19,6 +19,8 @@
   
   
   
+  
+  
   ## 🔧 Technologies & Tools
    
   ![](https://img.shields.io/badge/Code-Android-informational?style=for-the-badge&logo=Android&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
