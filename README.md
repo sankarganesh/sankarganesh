@@ -2,7 +2,7 @@
 
 ### Hello | Hola Everyone! 👋
 
-  ## 💭 About Myself edit for Rashaad
+  ## 💭 About Myself 
 
   <li> Myself Sankar Ganesh S from <a href ="https://www.openstreetmap.org/?mlat=13.0838&mlon=80.1841#map=11/13.0838/80.1841"> Chennai </a> | <a href ="https://www.openstreetmap.org/?mlat=8.7296&mlon=77.6852#map=11/8.7296/77.6852"> Tirunelveli </a>, India. </li> <br/>
 
